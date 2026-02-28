@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Receptiki STLV</string>
+
+    <!-- Категории -->
+    <string name="category_breakfast">Завтрак</string>
+    <string name="category_lunch">Обед</string>
+    <string name="category_dinner">Ужин</string>
+    <string name="category_dessert">Десерт</string>
+
+    <!-- Тексты для рецептов -->
+    <string name="minutes">мин</string>
+    <string name="complexity">Сложность</string>
+    <string name="add_to_favorites">Добавить в избранное</string>
+    <string name="ingredients">Ингредиенты</string>
+    <string name="preparation">Приготовление</string>
+    <string name="step">ШАГ</string>
+
+    <!-- Тексты для добавления рецепта -->
+    <string name="add_recipe_title">Добавление рецепта</string>
+    <string name="recipe_name">Название:</string>
+    <string name="preparation_time">Время приготовления:</string>
+    <string name="category">Категория:</string>
+    <string name="photo">Фото:</string>
+    <string name="add_recipe_button">Добавить рецепт</string>
+
+    <!-- Примеры рецептов -->
+    <string name="sample_recipe_title">Творожно-яблочное суфле с корицей в микроволновке</string>
+    <string name="sample_ingredient_cinnamon">корица молотая</string>
+    <string name="sample_ingredient_cottage_cheese">творог 9%</string>
+    <string name="sample_ingredient_apple">яблоко сладкое</string>
+    <string name="sample_ingredient_egg">яйцо</string>
+    <string name="sample_amount_200g">200 гр</string>
+    <string name="sample_amount_1pc">1 шт.</string>
+
+    <!-- Шаги приготовления -->
+    <string name="step_1">Большое яблоко очистить от кожуры и натереть на мелкой терке</string>
+    <string name="step_2">Смешать творог, яйцо и корицу до однородной массы</string>
+    <string name="step_3">Добавить тертое яблоко и перемешать</string>
+    <string name="step_4">Выложить в форму и готовить в микроволновке 5 минут при мощности 800 Вт</string>
+</resources>
